@@ -1,16 +1,15 @@
-# Olá, eu sou Emanuel Cândido 👋
+# Olá, eu sou Emanuel Cândido 👋 🇦🇴
 
 #### Professor | Desenvolvedor Autónomo
-
 [![Linkedin Badge](https://img.shields.io/badge/-emanuelcandido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/emanuelcandido/)
 
 
 #### Sobre
-<p align="justify"><i>
+<p align="justify">
     Além de ter o super poder 🤳 de ficar sentado em ;uma mesa e codificar por mais de 24 horas apenas para oferecer algo que tornará o mundo um lugar melhor, estou trabalhando na democratização do ensino técnico ❤ e na formação da próxima geração de engenheiros e desenvolvedores.
-</i></p><br><br>
+</p><br>
 
-
+#### Habilidades
 <table>
   <tbody>
     <tr valign="top">
@@ -57,5 +56,5 @@
 ![visitantes](https://visitor-badge.glitch.me/badge?page_id=EmanuelJoseCandido.EmanuelJoseCandido)
 
 ---
-Feito com 🖤💛❤ por [Emanuel Cândido] (https://github.com/EmanuelJoseCandido)
+Feito com 🖤💛❤ por [Emanuel Cândido](https://github.com/EmanuelJoseCandido)
 
