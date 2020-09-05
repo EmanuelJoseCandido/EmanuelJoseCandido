@@ -10,7 +10,7 @@
 
 ![Emanuel Cândido github stats](https://github-readme-stats.vercel.app/api?username=EmanuelJoseCandido&theme=prussian&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelJoseCandido&layout=compact)](https://github.com/EmanuelJoseCandido/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelJoseCandido&layout=compact)](https://emanueljosecandido.github.io/)
 
 ---
 Feito com 🖤💛❤ por [Emanuel Cândido](https://emanueljosecandido.github.io/)
